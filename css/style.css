@@ -116,6 +116,8 @@
 	line-height: 19px;
 	margin-top: 12px;
 	margin-bottom: 5px;
+	display: inline-block;
+	max-width: 195px;
 }
 .card-header {
 	display: flex;
